@@ -1,0 +1,14 @@
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.AssemblyInfoInputs.cache
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.AssemblyInfo.cs
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.csproj.CoreCompileInputs.cache
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/bin/Debug/net8.0/LoopsDemo
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/bin/Debug/net8.0/LoopsDemo.deps.json
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/bin/Debug/net8.0/LoopsDemo.runtimeconfig.json
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/bin/Debug/net8.0/LoopsDemo.dll
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/bin/Debug/net8.0/LoopsDemo.pdb
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.dll
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/refint/LoopsDemo.dll
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.pdb
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/LoopsDemo.genruntimeconfig.cache
+/Users/robertanderson/Desktop/repos/LoopsDemo/LoopsDemo/obj/Debug/net8.0/ref/LoopsDemo.dll
